@@ -10,5 +10,5 @@ The collected data will be sent to a python app on the computer, through serial 
 The pixel array is then converted into a visible photo. 
 
 ## Code details
-**ESP8266**
-
+**ESP8266** *(Platformio was used for uploading the code)*
+**Python App** *(PyCharm was used to run the code)*
