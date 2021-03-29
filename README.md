@@ -11,4 +11,5 @@ The pixel array is then converted into a visible photo.
 
 ## Code details
 **ESP8266** *(Platformio was used for uploading the code)* 
+
 **Python App** *(PyCharm was used to run the code)*
